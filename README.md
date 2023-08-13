@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Python , Javascript , Html/Css**
+- 💬 Ask me about **Python , Javascript , Html/Css** 
 
 - 📫 How to reach me **faizanahmedkhan48@gmail.com**
 
