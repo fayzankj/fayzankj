@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
 <h1 align="center">Hi 👋, I'm Faizan Ahmed khan</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A Software Engineer, crafting and unraveling the digital realm with an alluring passion</h3>
 <br>
 <br>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
