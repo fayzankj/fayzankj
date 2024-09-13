@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizan Ahmed Khan</h1>
-<h3 align="center">Data Analyst with a passion for turning complex datasets into actionable insights. Driven by curiosity and tech, I thrive at the intersection of data & innovation. Always evolving, Let's connect & unravel data stories together!</h3>
+<h3 align="center">Data Analyst with a passion for turning complex datasets into actionable insights. Driven by curiosity and tech, I thrive at the intersection of data & innovation. Always evolving, Let's connect & unravel data stories together !</h3>
 
 
 - 📄 Know about my experiences [Click Here](https://shorturl.at/ubAG5)
